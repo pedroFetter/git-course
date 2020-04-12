@@ -5,3 +5,5 @@ Este é um repositório teste
 Saiba mais em udemy
 
 Ajude-me aprender mais disponibilizando mais cursos free! =)
+
+Ou com qualquer outro tipo de doação... ;)
